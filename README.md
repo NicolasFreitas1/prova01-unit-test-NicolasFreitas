@@ -6,7 +6,7 @@
 
 ## SonarCloud
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=nicolas_unit-tests-jest&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=nicolas_unit-tests-jest)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=NicolasFreitas1_prova01-unit-test-NicolasFreitas&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=NicolasFreitas1_prova01-unit-test-NicolasFreitas)
 
 ## Getting Started
 
